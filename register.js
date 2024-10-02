@@ -50,5 +50,5 @@ let state;
 
 //object
 
-console.log(typeof  null);
+console.log(typeof  null);//it is not a type it is a object
 console.log(typeof undefined);//undefined is a type of undefined
